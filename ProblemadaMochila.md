@@ -1,4 +1,4 @@
-
+// Autor @Caio Faustino
 class Mochilanascostas{
 	
 public static int calcula (int capacidade, int []pesos, int []valores){
